@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: yellowgreen;
+}
+h2{
+    font-size: 3em;
+    font-family: sans-serif;
+    margin-top: 5em;
+    text-align: center;
+    color: green;
+}
+div{
+    text-align: center;
+}
