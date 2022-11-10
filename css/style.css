@@ -9,10 +9,15 @@ body{
 h2{
     font-size: 3em;
     font-family: sans-serif;
-    margin-top: 5em;
+    margin-top: 3em;
     text-align: center;
     color: green;
 }
 div{
     text-align: center;
+}
+div > button{
+    margin-top: 1em;
+    font-weight: bold;
+    padding: 0.5em;
 }
